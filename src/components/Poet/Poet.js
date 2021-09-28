@@ -16,7 +16,7 @@ const Poet = (props) => {
                <p>Birth: {dateOfBirth}</p>
                <p>Death: {dateOfDeath}</p>
                <p>Total Book: {totalBook}</p>
-               <p>Average Book Price: {bookPrice}</p>
+               <p>Average Book Price: {bookPrice} tk</p>
                <button 
                onClick = { () => props.handleAddToCart(props.poet)}
                className = 'regular-btn'><i class="fas fa-shopping-cart"></i> add to cart</button>
