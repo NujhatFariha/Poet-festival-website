@@ -19,7 +19,6 @@ const Cart = (props) => {
             <div className="text-center">
             <h1 className="mb-4 mt-5 " style={{color: 'darkslateblue'}}>Hire Poet</h1>
             <h4 className="fs-3">poets added:{props.cart.length}</h4>
-            <p className="fs-4 fw-bold">total Cost: </p>
             <h2>{name}</h2>
             </div>
         </div>
