@@ -1,0 +1,18 @@
+.information-container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    text-align: center;
+    background-color: rgb(221, 212, 240);
+    color: black;
+    border-radius: 15px;
+    
+    
+}
+.regular-btn{
+    background-color: rgb(36, 8, 22);
+    padding: 10px 20px;
+    border-color: rgb(243, 239, 239);
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}

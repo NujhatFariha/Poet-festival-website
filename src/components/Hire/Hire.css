@@ -1,0 +1,17 @@
+.component-container{
+    display: grid;
+    grid-template-columns:3fr 1fr;
+    margin: 10px 50px;
+    
+    
+    
+}
+.poet-container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap: 20px;
+    border-radius: 10px;
+}
+.cart-item{
+    display: block;
+}

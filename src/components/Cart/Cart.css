@@ -1,0 +1,12 @@
+.cart-container{
+    height: 400px;
+    margin-left: 30px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid rgb(10, 10, 32);
+    background-color: rgb(231, 231, 231);
+}
+.cart-container h2 {
+    color:black;
+    display: block;
+}
